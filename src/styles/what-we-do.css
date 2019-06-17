@@ -1,0 +1,58 @@
+.cover-section-2{
+	background: linear-gradient(to right,#002a32, transparent, #002a32), 
+				url(../images/camera-coffee-composition-1509428.jpg) center center;
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.card-section-overflow{
+	top: -100px;
+    position: relative;
+}
+
+.go-to-card{
+	margin: 8em auto;
+	text-align: left;
+}
+
+.go-to-card .card-img-top{
+	padding:5em;
+}
+
+/* .wwd-section{
+	padding-bottom: 50px;
+}
+
+.wwd-sub-section{
+	padding-bottom: 20px;
+} 
+*/
+
+.wwd-icon{
+	padding: 5px;
+    max-height: 60px;
+    margin: auto;
+    text-align: center;
+}
+
+.link-icon-color,
+.link-icon-color:hover{
+	color: #1871cd;
+}
+
+.top-cards-align{
+	margin-top: 8em;
+}
+
+@media (max-width: 425px) {
+	.center-mob {
+		text-align: center;
+	}
+}
+@media (min-width: 768px) {
+	.center-tab {
+		text-align: center;
+	}
+}

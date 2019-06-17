@@ -1,0 +1,17 @@
+.cover-section-2{
+	background: linear-gradient(to right,#002a32, transparent, #002a32), 
+				url(../images/camera-coffee-composition-1509428.jpg) center center;
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.card-section-overflow{
+	top: -100px;
+    position: relative;
+}
+
+.blog-head{
+	font-style: italic;
+}

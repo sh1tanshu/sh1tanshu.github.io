@@ -1,0 +1,18 @@
+.cover-section{
+	/* background: linear-gradient(to right,#002a32, transparent, #002a32), url(../images/center-images.jpg) center center; */
+	background-size: cover !important;
+	background: linear-gradient(to bottom, rgba(0,0,0,0) 0, #002a32 150%, #002a32 100%), 
+				linear-gradient(to right,#002a32, transparent, #002a32), 
+				url(../images/websiteimages/who-hero.jpg) center center;
+	/* min-height: 52em; */
+}
+
+.center-texts{
+	font-size: 34px;
+    text-align: center;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    margin: auto;
+    width: 80%;
+    color: white;
+}
