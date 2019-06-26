@@ -1,7 +1,7 @@
 {
-  "main.css": "/static/css/main.30305deb.chunk.css",
-  "main.js": "/static/js/main.a120e222.chunk.js",
-  "main.js.map": "/static/js/main.a120e222.chunk.js.map",
+  "main.css": "/static/css/main.e9b1b219.chunk.css",
+  "main.js": "/static/js/main.b183953e.chunk.js",
+  "main.js.map": "/static/js/main.b183953e.chunk.js.map",
   "static/js/1.25e380c2.chunk.js": "/static/js/1.25e380c2.chunk.js",
   "static/js/1.25e380c2.chunk.js.map": "/static/js/1.25e380c2.chunk.js.map",
   "runtime~main.js": "/static/js/runtime~main.229c360f.js",
@@ -19,8 +19,8 @@
   "static/media/leveraging-ai.jpg": "/static/media/leveraging-ai.43fff655.jpg",
   "static/media/leveraging-ai-flow.jpg": "/static/media/leveraging-ai-flow.5930cea2.jpg",
   "static/media/contact.scss": "/static/media/bg-01.57017de0.jpg",
-  "static/css/main.30305deb.chunk.css.map": "/static/css/main.30305deb.chunk.css.map",
+  "static/css/main.e9b1b219.chunk.css.map": "/static/css/main.e9b1b219.chunk.css.map",
   "index.html": "/index.html",
-  "precache-manifest.70736f2542a780e9322c9690bbf8b12d.js": "/precache-manifest.70736f2542a780e9322c9690bbf8b12d.js",
+  "precache-manifest.431c013e8613d2de8bf2a75d9bcc5a10.js": "/precache-manifest.431c013e8613d2de8bf2a75d9bcc5a10.js",
   "service-worker.js": "/service-worker.js"
 }
