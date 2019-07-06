@@ -1,13 +1,13 @@
 {
-  "main.css": "/static/css/main.a6281d5d.chunk.css",
-  "main.js": "/static/js/main.e589fa2a.chunk.js",
-  "main.js.map": "/static/js/main.e589fa2a.chunk.js.map",
+  "main.css": "/static/css/main.260d660a.chunk.css",
+  "main.js": "/static/js/main.88e392c4.chunk.js",
+  "main.js.map": "/static/js/main.88e392c4.chunk.js.map",
   "static/js/1.25e380c2.chunk.js": "/static/js/1.25e380c2.chunk.js",
   "static/js/1.25e380c2.chunk.js.map": "/static/js/1.25e380c2.chunk.js.map",
   "runtime~main.js": "/static/js/runtime~main.229c360f.js",
   "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
   "static/media/what-we-do.scss": "/static/media/camera-coffee-composition-1509428.e327160b.jpg",
-  "static/media/home.scss": "/static/media/analysis-brainstorming-1661004F.ed8e7e9f.jpg",
+  "static/media/home.scss": "/static/media/hero.00fca81f.jpg",
   "static/media/who-we-are.scss": "/static/media/who-hero.9c966866.jpg",
   "static/media/cardimage1.jpg": "/static/media/cardimage1.eeb2676c.jpg",
   "static/media/cardimage2.jpg": "/static/media/cardimage2.2c0aa2ae.jpg",
@@ -19,8 +19,8 @@
   "static/media/leveraging-ai.jpg": "/static/media/leveraging-ai.43fff655.jpg",
   "static/media/leveraging-ai-flow.jpg": "/static/media/leveraging-ai-flow.5930cea2.jpg",
   "static/media/contact.scss": "/static/media/bg-01.57017de0.jpg",
-  "static/css/main.a6281d5d.chunk.css.map": "/static/css/main.a6281d5d.chunk.css.map",
+  "static/css/main.260d660a.chunk.css.map": "/static/css/main.260d660a.chunk.css.map",
   "index.html": "/index.html",
-  "precache-manifest.ef593f000cb407e58e844166fbe2f968.js": "/precache-manifest.ef593f000cb407e58e844166fbe2f968.js",
+  "precache-manifest.7de506e05472edc782776d9060a20ee0.js": "/precache-manifest.7de506e05472edc782776d9060a20ee0.js",
   "service-worker.js": "/service-worker.js"
 }
